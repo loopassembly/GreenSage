@@ -1,0 +1,12 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-annotation-experimental-1.1.0-0 /home/loopassembly/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-1.0.0-beta04-1 /home/loopassembly/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-java-1.0.0-beta04-2 /home/loopassembly/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-1.6.0-3 /home/loopassembly/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-4 /home/loopassembly/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.9/android/src/main/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-5 /home/loopassembly/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.9/android/src/release/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-6 /home/loopassembly/Documents/greensage/build/flutter_plugin_android_lifecycle/generated/res/pngs/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-resValues-7 /home/loopassembly/Documents/greensage/build/flutter_plugin_android_lifecycle/generated/res/resValues/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-rs-8 /home/loopassembly/Documents/greensage/build/flutter_plugin_android_lifecycle/generated/res/rs/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-9 /home/loopassembly/Documents/greensage/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-10 /home/loopassembly/Documents/greensage/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-merged_res-11 /home/loopassembly/Documents/greensage/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release

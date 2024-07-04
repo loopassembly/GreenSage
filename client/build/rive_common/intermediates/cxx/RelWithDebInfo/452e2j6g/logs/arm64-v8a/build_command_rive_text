@@ -1,0 +1,4 @@
+/home/loopassembly/Android/Sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/.cxx/RelWithDebInfo/452e2j6g/arm64-v8a \
+  rive_text

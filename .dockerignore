@@ -1,0 +1,27 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output directories
+/bin
+/pkg
+/dist
+
+# Go modules
+/vendor
+
+# Dependency directories
+/node_modules
+/jspm_packages
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db

@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/.cxx/Debug/402sp76y/x86'
+ninja: no work to do.

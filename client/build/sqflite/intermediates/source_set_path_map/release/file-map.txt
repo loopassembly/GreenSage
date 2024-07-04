@@ -1,0 +1,12 @@
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-0 /home/loopassembly/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/res
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-1 /home/loopassembly/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/res
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-2 /home/loopassembly/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/res
+com.tekartik.sqflite-core-1.6.0-3 /home/loopassembly/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/res
+com.tekartik.sqflite-main-4 /home/loopassembly/.pub-cache/hosted/pub.dev/sqflite-2.2.6/android/src/main/res
+com.tekartik.sqflite-release-5 /home/loopassembly/.pub-cache/hosted/pub.dev/sqflite-2.2.6/android/src/release/res
+com.tekartik.sqflite-pngs-6 /home/loopassembly/Documents/greensage/build/sqflite/generated/res/pngs/release
+com.tekartik.sqflite-resValues-7 /home/loopassembly/Documents/greensage/build/sqflite/generated/res/resValues/release
+com.tekartik.sqflite-rs-8 /home/loopassembly/Documents/greensage/build/sqflite/generated/res/rs/release
+com.tekartik.sqflite-mergeReleaseResources-9 /home/loopassembly/Documents/greensage/build/sqflite/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.tekartik.sqflite-mergeReleaseResources-10 /home/loopassembly/Documents/greensage/build/sqflite/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.tekartik.sqflite-merged_res-11 /home/loopassembly/Documents/greensage/build/sqflite/intermediates/merged_res/release

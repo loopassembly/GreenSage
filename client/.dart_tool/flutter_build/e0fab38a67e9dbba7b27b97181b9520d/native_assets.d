@@ -1,0 +1,1 @@
+ /home/loopassembly/Documents/greensage/.dart_tool/flutter_build/e0fab38a67e9dbba7b27b97181b9520d/native_assets.yaml: 

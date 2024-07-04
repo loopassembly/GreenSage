@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 19 min SDK version: x86",
+    "file_": "/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1014369433
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/.cxx/RelWithDebInfo/452e2j6g/x86/android_gradle_build.json due to:",
+    "file_": "/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1134342662
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/.cxx/RelWithDebInfo/452e2j6g/x86/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -849842546
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/.cxx/RelWithDebInfo/452e2j6g/x86/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1236038164
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1979247890
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/.cxx/RelWithDebInfo/452e2j6g/x86\u0027",
+    "file_": "/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 96420263
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/.cxx/RelWithDebInfo/452e2j6g/x86\u0027",
+    "file_": "/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1827373901
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /home/loopassembly/Android/Sdk/cmake/3.18.1/bin/cmake \\\n  -H/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d19 \\\n  -DANDROID_PLATFORM\u003dandroid-19 \\\n  -DANDROID_ABI\u003dx86 \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003dx86 \\\n  -DANDROID_NDK\u003d/home/loopassembly/Android/Sdk/ndk/25.1.8937393 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/loopassembly/Android/Sdk/ndk/25.1.8937393 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/loopassembly/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/loopassembly/Android/Sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/loopassembly/Documents/greensage/build/rive_common/intermediates/cxx/RelWithDebInfo/452e2j6g/obj/x86 \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/loopassembly/Documents/greensage/build/rive_common/intermediates/cxx/RelWithDebInfo/452e2j6g/obj/x86 \\\n  -DCMAKE_BUILD_TYPE\u003dRelWithDebInfo \\\n  -B/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/.cxx/RelWithDebInfo/452e2j6g/x86 \\\n  -GNinja\n",
+    "file_": "/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1707225395
+  },
+  {
+    "level_": 0,
+    "message_": "/home/loopassembly/Android/Sdk/cmake/3.18.1/bin/cmake \\\n  -H/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d19 \\\n  -DANDROID_PLATFORM\u003dandroid-19 \\\n  -DANDROID_ABI\u003dx86 \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003dx86 \\\n  -DANDROID_NDK\u003d/home/loopassembly/Android/Sdk/ndk/25.1.8937393 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/loopassembly/Android/Sdk/ndk/25.1.8937393 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/loopassembly/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/loopassembly/Android/Sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/loopassembly/Documents/greensage/build/rive_common/intermediates/cxx/RelWithDebInfo/452e2j6g/obj/x86 \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/loopassembly/Documents/greensage/build/rive_common/intermediates/cxx/RelWithDebInfo/452e2j6g/obj/x86 \\\n  -DCMAKE_BUILD_TYPE\u003dRelWithDebInfo \\\n  -B/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/.cxx/RelWithDebInfo/452e2j6g/x86 \\\n  -GNinja\n",
+    "file_": "/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1818864722
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/.cxx/RelWithDebInfo/452e2j6g/x86/compile_commands.json.bin normally",
+    "file_": "/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -300834568
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1666901639
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/.cxx/RelWithDebInfo/452e2j6g/x86/metadata_generation_command.txt",
+    "file_": "/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 661146938
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/home/loopassembly/.pub-cache/hosted/pub.dev/rive_common-0.0.6/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -689992573
+  }
+]
