@@ -7,7 +7,7 @@ import 'package:flutter_animate/flutter_animate.dart';
 // import 'package:google_fonts/google_fonts.dart';
 import 'package:http/http.dart' as http;
 //  import 'package:intl/intl.dart';
-// import 'package:greensage/graph_model.dart';
+
 import 'screen2_model.dart';
 export 'screen2_model.dart';
 
