@@ -41,6 +41,7 @@ GreenSage provides predictions for plant health based on environmental data and 
 ## Screenshots and Demonstration
 
 ![greensage](https://github.com/loopassembly/GreenSage/assets/62586139/20902f33-721f-43bc-9370-c616ed19467c)
+![greensage_new](https://github.com/user-attachments/assets/92f9b51f-231a-4307-9b71-0ee9e76ba5b5)
 
 ## Future Enhancements
 
@@ -54,3 +55,4 @@ We welcome contributions from the community to enhance GreenSage's capabilities 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](link/to/LICENSE.md) file for details.
+
